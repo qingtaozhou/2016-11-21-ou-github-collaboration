@@ -1,6 +1,6 @@
 ##Tunisia
 ## population
-
+10,982,754
 
 ## capital
 
@@ -9,6 +9,4 @@
 
 
 ## interesting trivia
-
-
 
