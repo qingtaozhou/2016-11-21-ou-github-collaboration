@@ -1,6 +1,6 @@
 ##Sweden
 ## population
-
+9,954,420 
 
 ## capital
 
